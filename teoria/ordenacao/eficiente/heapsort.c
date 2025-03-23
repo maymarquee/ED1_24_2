@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../heap_binaria/operacoes.c"
+#include "../../heap_binaria/operacoes.c"
 
 //HEAP MÁXIMO
 //COMPLEXIDADE NlogN -> cada inserção custa logn, e cada remoção, logn, logo custo total é nlogn

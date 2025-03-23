@@ -2,7 +2,7 @@
 #include <math.h>
 #include "heapsort.c"
 #include "quicksort.c"
-#include "../ordenacao/insertionsort.c"
+#include "../elementar/insertionsort.c"
 
 #define compexch(A,B) if ((A) > (B)) {Item t=A; A=B, B=t;}
 
